@@ -1,0 +1,22 @@
+{
+    "Parameters": [
+        {
+            "Name": "AppDebug",
+            "Type": "String",
+            "Value": "true_prd",
+            "Version": 1,
+            "LastModifiedDate": "2020-11-24T07:29:14.417000+00:00",
+            "ARN": "arn:aws:ssm:ap-northeast-1:144675461972:parameter/AppDebug",
+            "DataType": "text"
+        },
+        {
+            "Name": "BatchAvailable",
+            "Type": "String",
+            "Value": "true_prd",
+            "Version": 1,
+            "LastModifiedDate": "2022-05-27T17:58:38.452000+00:00",
+            "ARN": "arn:aws:ssm:ap-northeast-1:144675461972:parameter/BatchAvailable",
+            "DataType": "text"
+        }
+    ]
+}

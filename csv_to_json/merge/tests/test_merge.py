@@ -1,4 +1,4 @@
-from csv_to_json import __version__
+from merge import __version__
 
 
 def test_version():

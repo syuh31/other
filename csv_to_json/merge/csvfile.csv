@@ -1,0 +1,3 @@
+Name,Type,dev_Value,prd_Value
+AppDebug,String,true,true_prd
+BatchAvailable,String,true,true_prd
