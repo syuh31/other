@@ -1,0 +1,8 @@
+Parameter
+arn:aws:ssm:ap-northeast-1:144675461972:parameter/v2cp-bucket-name
+text
+2022-07-14T13:10:48.291000+09:00
+v2cp-bucket-name
+String
+allu-dev
+1
